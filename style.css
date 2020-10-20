@@ -11,4 +11,9 @@ h1 {
 }
 li {
   color:orange;
+  list-style-type:none;
+}
+ul { 
+display:flex; 
+  justify-content:space-around;
 }
